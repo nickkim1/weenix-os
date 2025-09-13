@@ -6,5 +6,6 @@ Wrote full Unix kernel in C with:
 3. A disk-backed file-system (S5FS)
 4. A virtual file-system interface (VFS)
 5. Virtual memory
+
 For prospective employers, please message me directly (nicolas_kim@brown.edu or nicolas.hyunyong.kim@gmail.com) for access to the private code (which
 isn't available for direct viewing currently under the Brown academic policy).
